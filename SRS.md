@@ -2,10 +2,14 @@
 
 ## 1. Inngangur
 ### 1.1 Tilgangur
-Stutt lýsing á tilgangi kerfisins og hverju það á að skila.
+Meginmarkmið kerfisins er að með nýjum sjálfvirkum ferlum megi geri pantanir skilvirkari (hraðvirkari og með minni mannafla), og 
+villufrírri. Markmið kerfisins er að veita notendum þjónustu til að panta 24/7 í staðinn fyrir frá 8-16. Í núverandi kerfi eyða starfmenn umtalsverðum tíma
+í að fara í mötuneytið, velja, panta, bíða eftir matnum og greiða fyrir hann. Að meðaltali tekur það um 65 mínútur. Sumir starfsmenn hringja inn pöntun í síma. Umtalsverðar birgðir fara til spillis. 
+Þegar starfsmenn borða út í bæ tekur það allt að 90 mínútur. 
+
 
 ### 1.2 Umfang
-Hvað á kerfið að gera? Afmörkun verkefnisins.
+Kerfið á að senda inn pantanir í mötuneyti, afgreiða pantanir, afhenda pantanir og útbúa matseðla
 
 ### 1.3 Skilgreiningar
 | Hugtak | Skýring |
@@ -14,17 +18,25 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | Issue | Umræða/atriði í GitHub sem tengist ákveðinni kröfu |
 
 ### 1.4 Tilvísanir
-- IEEE 830 Standard (fyrirmynd að uppbyggingu SRS)
+- [ISO/IEC/IEEE International Standard - Systems and software engineering -- Life cycle processes -- Requirements engineering," in ISO/IEC/IEEE 29148:2018(E) , vol., no., pp.1-104, 30 Nov. 2018, doi: 10.1109/IEEESTD.2018.8559686.ISO/IEC/IEEE 29](https://ieeexplore.ieee.org/document/8559686)
+- Cafeteria and Ordering System, Wiegers & Beatty 
 
 ---
 
 ## 2. Almenn lýsing
 ### 2.1 Notendahópar
-- Lýsa helstu notendahópum kerfisins (t.d. notendur, stjórnendur).
+Helstu notenahópar eru eftirfarandi 
+-  Starfsmenn, velja af matseðli, panta matinn, greiða fyrir matinn og fá hann afhentan. Pöntunin fer fram á innra netinu. Stundum pantar starfsfólk mat fyrir viðburði fyrir
+   hópa starfsmanna og eða gesti 
+-  Starfsfólk í mötuneyti afgreiðir pöntun úr kerfinu, eldar matinn, pakkar honum inn og sendir inn beiðni um afhendingu 
+-  Sendlar fá beiðni um afhendingu pantana í app í síma. Sendlar ná í matinn úr mötuneyti og afhenda starfsmönnum 
+-  Matreiðslufólk útbýr matseðla  og bjóða einnig upp á rétt dagsins. Ekki verður hægt að bjóða upp á alla rétti til að borða utan mötuneytis (take a way)
 
 ### 2.2 Viðskiptaávinningur
-- Hver er ávinningurinn fyrir fyrirtæki eða notendur?
-
+- Starfsmenn eyða minni tíma í að panta mat,greiða fyrir hann og fá hann afhentan. 
+- Starfsfólk í mötuneyti eyðir minni tíma í að taka við pöntunum, t.d. í síma. 
+- Minni sóun á matarbirgðum 
+- Sendlar geta stytt tímann með því að safna saman pöntunum á deildir eða byggingar fyrirtækisins. 
 ---
 
 ## 3. Kröfur fyrir kerfið
