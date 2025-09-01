@@ -42,10 +42,10 @@ Helstu notenahópar eru eftirfarandi
 ## 3. Kröfur fyrir kerfið
 
 ### 3.1 Viðskiptakröfur
-| ID  | Lýsing | Issue |
-|-----|--------|-------|
-| BR1 | [Lýsing á viðskiptakröfu] | [#12](../../issues/12) |
-| BR2 | [Lýsing á viðskiptakröfu] | [#13](../../issues/13) |
+| ID  | Lýsing | Issue                                                   |
+|-----|--------|---------------------------------------------------------|
+| BR1 | [Lýsing á viðskiptakröfu] | [#1](https://github.com/Hvannberg/HBV301G-COS/issues/1) |
+| BR2 | [Lýsing á viðskiptakröfu] | [#2](https://github.com/Hvannberg/HBV301G-COS/issues/2) |
 
 ### 3.2 Kerfiskrafa
 | ID  | Lýsing | Issue |
@@ -92,10 +92,10 @@ Helstu notenahópar eru eftirfarandi
 | FR18 | [Virkni] | UR6 | [#41](../../issues/41) |
 
 ### 3.6 Viðskiptareglur
-| ID  | Lýsing | Issue |
-|-----|--------|-------|
-| BRG1 | [Viðskiptaregla] | [#42](../../issues/42) |
-| BRG2 | [Viðskiptaregla] | [#43](../../issues/43) |
+| ID  | Lýsing | Issue                                                   |
+|-----|--------|---------------------------------------------------------|
+| BRG1 | [Viðskiptaregla] | [#3](https://github.com/Hvannberg/HBV301G-COS/issues/3) |
+| BRG2 | [Viðskiptaregla] | [#4](https://github.com/Hvannberg/HBV301G-COS/issues/4) |
 
 ### 3.7 Óvirknikröfur
 | ID  | Lýsing | Issue |
@@ -114,16 +114,16 @@ Helstu notenahópar eru eftirfarandi
 | QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
 
 ### 3.9 Takmarkanir
-| ID  | Lýsing | Issue |
-|-----|--------|-------|
-| C1 | [Takmörkun] | [#52](../../issues/52) |
-| C2 | [Takmörkun] | [#53](../../issues/53) |
+| ID  | Lýsing | Issue                                                   |
+|-----|--------|---------------------------------------------------------|
+| C1 | [Takmörkun] | [#5](https://github.com/Hvannberg/HBV301G-COS/issues/5) |
+| C2 | [Takmörkun] | [#6](https://github.com/Hvannberg/HBV301G-COS/issues/6) |
 
 ### 3.10 Ytri skil (Interfaces)
-| ID  | Lýsing | Issue |
-|-----|--------|-------|
-| IF1 | [Ytra skil] | [#54](../../issues/54) |
-| IF2 | [Ytra skil] | [#55](../../issues/55) |
+| ID  | Lýsing | Issue                                                   |
+|-----|--------|---------------------------------------------------------|
+| IF1 | [Ytra skil] | [#7](https://github.com/Hvannberg/HBV301G-COS/issues/7) |
+| IF2 | [Ytra skil] | [#8](https://github.com/Hvannberg/HBV301G-COS/issues/8) |
 
 ---
 
