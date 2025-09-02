@@ -60,26 +60,37 @@ Helstu notenahópar eru eftirfarandi
 | F3  | [Panta og greiða fyrir máltíðir frá matseðli í mötuneyti] | [#12](https://github.com/Hvannberg/HBV301G-COS/issues/12) |
 
 ### 3.4 Notendakröfur
-| ID   | Lýsing          | Fídus | Issue                                                     |
-|------|-----------------|-------|-----------------------------------------------------------|
-| FR1  | [Panta máltíð] | 
-| FR2  | [Önnur virkni]  | UR1                                                          | [#16](https://github.com/Hvannberg/HBV301G-COS/issues/16) |
-| FR3  | [Önnur virkni]  | UR1                                                          | [#26](../../issues/26)                                    |
-| FR4  | [Virkni]        | UR2                                                          | [#27](../../issues/27)                                    |
-| FR5  | [Virkni]        | UR2                                                          | [#28](../../issues/28)                                    |
-| FR6  | [Virkni]        | UR2                                                          | [#29](../../issues/29)                                    |
-| FR7  | [Virkni]        | UR3                                                          | [#30](../../issues/30)                                    |
-| FR8  | [Virkni]        | UR3                                                          | [#31](../../issues/31)                                    |
-| FR9  | [Virkni]        | UR3                                                          | [#32](../../issues/32)                                    |
-| FR10 | [Virkni]        | UR4                                                          | [#33](../../issues/33)                                    |
-| FR11 | [Virkni]        | UR4                                                          | [#34](../../issues/34)                                    |
-| FR12 | [Virkni]        | UR4                                                          | [#35](../../issues/35)                                    |
-| FR13 | [Virkni]        | UR5                                                          | [#36](../../issues/36)                                    |
-| FR14 | [Virkni]        | UR5                                                          | [#37](../../issues/37)                                    |
-| FR15 | [Virkni]        | UR5                                                          | [#38](../../issues/38)                                    |
-| FR16 | [Virkni]        | UR6                                                          | [#39](../../issues/39)                                    |
-| FR17 | [Virkni]        | UR6                                                          | [#40](../../issues/40)                                    |
-| FR18 | [Virkni]        | UR6                                                          | [#41](../../issues/41)                                    |
+| ID  | Lýsing          | Fídus | Issue                                                    |
+|-----|-----------------|-------|----------------------------------------------------------|
+| UR1 |   Viðskiptavinur fær aðgang að pöntunarkerfi mötuneytisins úr innraneti fyrirtækisins, skoðar matseðla, velur, pantar máltíð sem á að senda              | F3    | [#13](https://github.com/Hvannberg/HBV301G-COS/issues/13) |
+| UR2 |                 |       |                                                          |
+| UR3 |                 |       |                                                          |
+| UR4 |                 |       |                                                          |
+| UR5 |                 |       |                                                          |
+| UR6 |                 |       |                                                          |
+
+
+### 3.5 Virknikröfur
+| ID   | Lýsing          | Notendakröfur | Issue                                                   |
+|------|-----------------|---------------|---------------------------------------------------------|
+| FR1  | [Panta máltíð] | UR1           |  [#16](https://github.com/Hvannberg/HBV301G-COS/issues/16)
+| FR2  | [Önnur virkni]  | UR1           | [#]() |
+| FR3  | [Önnur virkni]  | UR1           | [#](../../issues/26)                                  |
+| FR4  | [Virkni]        | UR2           | [#](../../issues/27)                                  |
+| FR5  | [Virkni]        | UR2           | [#](../../issues/28)                                  |
+| FR6  | [Virkni]        | UR2           | [#](../../issues/29)                                  |
+| FR7  | [Virkni]        | UR3           | [#](../../issues/30)                                  |
+| FR8  | [Virkni]        | UR3           | [#](../../issues/31)                                  |
+| FR9  | [Virkni]        | UR3           | [#](../../issues/32)                                  |
+| FR10 | [Virkni]        | UR4           | [#](../../issues/33)                                  |
+| FR11 | [Virkni]        | UR4           | [#](../../issues/34)                                  |
+| FR12 | [Virkni]        | UR4           | [#](../../issues/35)                                  |
+| FR13 | [Virkni]        | UR5           | [#](../../issues/36)                                  |
+| FR14 | [Virkni]        | UR5           | [#](../../issues/37)                                  |
+| FR15 | [Virkni]        | UR5           | [#](../../issues/38)                                  |
+| FR16 | [Virkni]        | UR6           | [#](../../issues/39)                                  |
+| FR17 | [Virkni]        | UR6           | [#](../../issues/40)                                  |
+| FR18 | [Virkni]        | UR6           | [#](../../issues/41)                                  |
 
 ### 3.6 Viðskiptareglur
 | ID  | Lýsing | Issue                                                   |
@@ -111,6 +122,16 @@ Helstu notenahópar eru eftirfarandi
 ## 4. Viðaukar
 ### 4.1 Orðalisti
 - Skilgreina lykilhugtök.
+- Máltíð
+- Pöntun
+- Launakerfi
+- Áskrift
+- Mötuneyti
+- Pöntunarkerfi
+- Afhendingagluggi
+- Frestur 
+- 
+- TODO - gera töflu
 
 ### 4.2 Samþykktir
 - Kennari: ____________________  
