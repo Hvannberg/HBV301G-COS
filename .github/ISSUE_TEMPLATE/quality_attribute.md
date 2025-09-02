@@ -13,3 +13,18 @@ assignees: []
 > Hvernig mælum við þetta?
 
 ## 🔗 Tengsl við aðrar kröfur
+
+## 📐 Flokkun
+
+- [ ] Afkastahagkvæmni (Performance efficiency)
+- [ ] Samhæfni (Compatibility)
+
+- [ ] Nytsemi (Usability)
+
+- [ ] Áreiðanleiki (Reliability)
+
+- [ ] Öryggi (Security)
+
+- [ ] Viðhaldshæfni (Maintainability)
+
+- [ ] Færanleiki (Portability)
