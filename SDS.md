@@ -5,7 +5,7 @@ Teymi 0, Ebba Þóra Hvannberg, kennari, ebba@hi.is
 Kröfulýsingin er byggð á case study frá Software Requirements management eftir Wiegers og Beatty
 
 ## Heiti kerfis
-Pöntunarkerfi fyrir mötuneyti 
+Pöntunarkerfi fyrir mötuneyti - Cafeteria Ordering System 
 
 ## Hvað er kerfið?
 Pöntunarkerfið gerir starfsfólki fyrirtækis kleyft að panta mat úr mötuneyti og 
