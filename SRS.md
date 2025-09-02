@@ -98,10 +98,10 @@ Helstu notenahópar eru eftirfarandi
 
 
 ### 3.7 Gæðaeiginleikar
-| ID  | Lýsing | Issue                                                    |
-|-----|--------|----------------------------------------------------------|
-| QR1 | [Gæðaeiginleiki] | [#15](https://github.com/Hvannberg/HBV301G-COS/issue/15) |
-| QR2 | [Gæðaeiginleiki] | [#51](../../issues/51)                                   |
+| ID  | Lýsing | Issue                                                                                   |
+|-----|--------|-----------------------------------------------------------------------------------------|
+| QR1 | [Gæðaeiginleiki] | [#15](https://github.com/Hvannberg/HBV301G-COS/issues/15)                               |
+| QR2 | [Gæðaeiginleiki] | [#51](../../issues/51)             |
 
 ### 3.8 Takmarkanir
 | ID  | Lýsing | Issue                                                   |
