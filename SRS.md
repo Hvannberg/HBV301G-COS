@@ -42,54 +42,53 @@ Helstu notenahópar eru eftirfarandi
 ## 3. Kröfur fyrir kerfið
 
 ### 3.1 Viðskiptakröfur
-| ID  | Lýsing | Issue                                                   |
-|-----|--------|---------------------------------------------------------|
-| BR1 | [Lýsing á viðskiptakröfu] | [#1](https://github.com/Hvannberg/HBV301G-COS/issues/1) |
-| BR2 | [Lýsing á viðskiptakröfu] | [#2](https://github.com/Hvannberg/HBV301G-COS/issues/2) |
+| ID  | Lýsing                                                                    | Issue                                                   |
+|-----|---------------------------------------------------------------------------|---------------------------------------------------------|
+| BR1 | [Lækka kostnað vegna matarúrgangs í mötuneyti um 40% innan 6 mánaða]      | [#1](https://github.com/Hvannberg/HBV301G-COS/issues/1) |
+| BR2 | [Auka meðal raunvinnutíma starfsmanns sem notar mötuneytið um 15 mínútur] | [#2](https://github.com/Hvannberg/HBV301G-COS/issues/2) |
 
 ### 3.2 Kerfiskrafa
-| ID  | Lýsing | Issue |
-|-----|--------|-------|
-| SR1 | [Lýsing á kerfiskröfu] | [#14](../../issues/14) |
+| ID  | Lýsing | Issue                                                   |
+|-----|--------|---------------------------------------------------------|
+| SR1 | [Lýsing á kerfiskröfu] | [#9](https://github.com/Hvannberg/HBV301G-COS/issues/9) |
 
 ### 3.3 Fídusar (Features)
-| ID  | Lýsing | Issue |
-|-----|--------|-------|
-| F1  | [Lýsing á fídusi] | [#15](../../issues/15) |
-| F2  | [Lýsing á fídusi] | [#16](../../issues/16) |
-| F3  | [Lýsing á fídusi] | [#17](../../issues/17) |
+| ID  | Lýsing | Issue                                                    |
+|-----|--------|----------------------------------------------------------|
+| F1  | [Lýsing á fídusi] | [#10](https://github.com/Hvannberg/HBV301G-COS/issue/10) |
+| F2  | [Lýsing á fídusi] | [#11](https://github.com/Hvannberg/HBV301G-COS/issue/11) |
+| F3  | [Lýsing á fídusi] | [#12](https://github.com/Hvannberg/HBV301G-COS/issue/12) |
 
 ### 3.4 Notendakröfur
-| ID  | Lýsing | Fídus | Issue |
-|-----|--------|-------|-------|
-| UR1 | [Notendakrafa 1] | F1 | [#18](../../issues/18) |
-| UR2 | [Notendakrafa 2] | F1 | [#19](../../issues/19) |
-| UR3 | [Notendakrafa 3] | F2 | [#20](../../issues/20) |
-| UR4 | [Notendakrafa 4] | F2 | [#21](../../issues/21) |
-| UR5 | [Notendakrafa 5] | F3 | [#22](../../issues/22) |
-| UR6 | [Notendakrafa 6] | F3 | [#23](../../issues/23) |
+| ID  | Lýsing | Fídus | Issue                                                    |
+|-----|--------|-------|----------------------------------------------------------|
+| UR2 | [Notendakrafa 2] | F1 | [#13](https://github.com/Hvannberg/HBV301G-COS/issue/13) |
+| UR3 | [Notendakrafa 3] | F2 | [#20](../../issues/20)                                   |
+| UR4 | [Notendakrafa 4] | F2 | [#21](../../issues/21)                                   |
+| UR5 | [Notendakrafa 5] | F3 | [#22](../../issues/22)                                   |
+| UR6 | [Notendakrafa 6] | F3 | [#23](../../issues/23)                                   |
 
 ### 3.5 Virknikröfur
-| ID  | Lýsing | Notendakrafa | Issue |
-|-----|--------|--------------|-------|
-| FR1 | [Virkni sem styður notendakröfu] | UR1 | [#24](../../issues/24) |
-| FR2 | [Önnur virkni] | UR1 | [#25](../../issues/25) |
-| FR3 | [Önnur virkni] | UR1 | [#26](../../issues/26) |
-| FR4 | [Virkni] | UR2 | [#27](../../issues/27) |
-| FR5 | [Virkni] | UR2 | [#28](../../issues/28) |
-| FR6 | [Virkni] | UR2 | [#29](../../issues/29) |
-| FR7 | [Virkni] | UR3 | [#30](../../issues/30) |
-| FR8 | [Virkni] | UR3 | [#31](../../issues/31) |
-| FR9 | [Virkni] | UR3 | [#32](../../issues/32) |
-| FR10 | [Virkni] | UR4 | [#33](../../issues/33) |
-| FR11 | [Virkni] | UR4 | [#34](../../issues/34) |
-| FR12 | [Virkni] | UR4 | [#35](../../issues/35) |
-| FR13 | [Virkni] | UR5 | [#36](../../issues/36) |
-| FR14 | [Virkni] | UR5 | [#37](../../issues/37) |
-| FR15 | [Virkni] | UR5 | [#38](../../issues/38) |
-| FR16 | [Virkni] | UR6 | [#39](../../issues/39) |
-| FR17 | [Virkni] | UR6 | [#40](../../issues/40) |
-| FR18 | [Virkni] | UR6 | [#41](../../issues/41) |
+| ID  | Lýsing | Notendakrafa                                                 | Issue                                                    |
+|-----|--------|--------------------------------------------------------------|----------------------------------------------------------|
+| FR1 | [Virkni sem styður notendakröfu] | UR1 | [#16](https://github.com/Hvannberg/HBV301G-COS/issue/16) |
+| FR2 | [Önnur virkni] | UR1                                                          | [#25](../../issues/25)                                   |
+| FR3 | [Önnur virkni] | UR1                                                          | [#26](../../issues/26)                                   |
+| FR4 | [Virkni] | UR2                                                          | [#27](../../issues/27)                                   |
+| FR5 | [Virkni] | UR2                                                          | [#28](../../issues/28)                                   |
+| FR6 | [Virkni] | UR2                                                          | [#29](../../issues/29)                                   |
+| FR7 | [Virkni] | UR3                                                          | [#30](../../issues/30)                                   |
+| FR8 | [Virkni] | UR3                                                          | [#31](../../issues/31)                                   |
+| FR9 | [Virkni] | UR3                                                          | [#32](../../issues/32)                                   |
+| FR10 | [Virkni] | UR4                                                          | [#33](../../issues/33)                                   |
+| FR11 | [Virkni] | UR4                                                          | [#34](../../issues/34)                                   |
+| FR12 | [Virkni] | UR4                                                          | [#35](../../issues/35)                                   |
+| FR13 | [Virkni] | UR5                                                          | [#36](../../issues/36)                                   |
+| FR14 | [Virkni] | UR5                                                          | [#37](../../issues/37)                                   |
+| FR15 | [Virkni] | UR5                                                          | [#38](../../issues/38)                                   |
+| FR16 | [Virkni] | UR6                                                          | [#39](../../issues/39)                                   |
+| FR17 | [Virkni] | UR6                                                          | [#40](../../issues/40)                                   |
+| FR18 | [Virkni] | UR6                                                          | [#41](../../issues/41)                                   |
 
 ### 3.6 Viðskiptareglur
 | ID  | Lýsing | Issue                                                   |
@@ -97,29 +96,20 @@ Helstu notenahópar eru eftirfarandi
 | BRG1 | [Viðskiptaregla] | [#3](https://github.com/Hvannberg/HBV301G-COS/issues/3) |
 | BRG2 | [Viðskiptaregla] | [#4](https://github.com/Hvannberg/HBV301G-COS/issues/4) |
 
-### 3.7 Óvirknikröfur
-| ID  | Lýsing | Issue |
-|-----|--------|-------|
-| NFR1 | [Óvirknikrafa] | [#44](../../issues/44) |
-| NFR2 | [Óvirknikrafa] | [#45](../../issues/45) |
-| NFR3 | [Óvirknikrafa] | [#46](../../issues/46) |
-| NFR4 | [Óvirknikrafa] | [#47](../../issues/47) |
-| NFR5 | [Óvirknikrafa] | [#48](../../issues/48) |
-| NFR6 | [Óvirknikrafa] | [#49](../../issues/49) |
 
-### 3.8 Gæðaeiginleikar
-| ID  | Lýsing | Issue |
-|-----|--------|-------|
-| QR1 | [Gæðaeiginleiki] | [#50](../../issues/50) |
-| QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
+### 3.7 Gæðaeiginleikar
+| ID  | Lýsing | Issue                                                    |
+|-----|--------|----------------------------------------------------------|
+| QR1 | [Gæðaeiginleiki] | [#15](https://github.com/Hvannberg/HBV301G-COS/issue/15) |
+| QR2 | [Gæðaeiginleiki] | [#51](../../issues/51)                                   |
 
-### 3.9 Takmarkanir
+### 3.8 Takmarkanir
 | ID  | Lýsing | Issue                                                   |
 |-----|--------|---------------------------------------------------------|
 | C1 | [Takmörkun] | [#5](https://github.com/Hvannberg/HBV301G-COS/issues/5) |
 | C2 | [Takmörkun] | [#6](https://github.com/Hvannberg/HBV301G-COS/issues/6) |
 
-### 3.10 Ytri skil (Interfaces)
+### 3.9 Ytri skil (Interfaces)
 | ID  | Lýsing | Issue                                                   |
 |-----|--------|---------------------------------------------------------|
 | IF1 | [Ytra skil] | [#7](https://github.com/Hvannberg/HBV301G-COS/issues/7) |
