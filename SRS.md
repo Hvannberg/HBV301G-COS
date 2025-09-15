@@ -60,14 +60,14 @@ Helstu notenahópar eru eftirfarandi
 | F3  | [Panta og greiða fyrir máltíðir frá matseðli í mötuneyti] | [#12](https://github.com/Hvannberg/HBV301G-COS/issues/12) |
 
 ### 3.4 Notendakröfur
-| ID  | Lýsing          | Fídus | Issue                                                    |
-|-----|-----------------|-------|----------------------------------------------------------|
-| UR1 |   Viðskiptavinur fær aðgang að pöntunarkerfi mötuneytisins úr innraneti fyrirtækisins, skoðar matseðla, velur, pantar máltíð sem á að senda              | F3    | [#13](https://github.com/Hvannberg/HBV301G-COS/issues/13) |
-| UR2 |                 |       |                                                          |
-| UR3 |                 |       |                                                          |
-| UR4 |                 |       |                                                          |
-| UR5 |                 |       |                                                          |
-| UR6 |                 |       |                                                          |
+| ID  | Lýsing                                                                                                                                 | Fídus | Issue                                                    |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------|-------|----------------------------------------------------------|
+| UR1 | Starfsmaður fær aðgang að pöntunarkerfi mötuneytisins úr innraneti fyrirtækisins, skoðar matseðla, velur, pantar máltíð sem á að senda | F3    | [#13](https://github.com/Hvannberg/HBV301G-COS/issues/13) |
+| UR2 |                                                                                                                                        |       |                                                          |
+| UR3 |                                                                                                                                        |       |                                                          |
+| UR4 |                                                                                                                                        |       |                                                          |
+| UR5 |                                                                                                                                        |       |                                                          |
+| UR6 |                                                                                                                                        |       |                                                          |
 
 
 ### 3.5 Virknikröfur
