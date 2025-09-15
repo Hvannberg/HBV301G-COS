@@ -104,7 +104,8 @@ Helstu notenahópar eru eftirfarandi
 |-----|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | QR1 | [95% nýrra notenda skulu geta pantað máltíð án villna í fyrstu tilraun.]                       | [#15](https://github.com/Hvannberg/HBV301G-COS/issues/15) |
 | QR2 | [Fjölda notenda, samtímis notendur á háannatíma og meðaltími lotu #Gæðaeiginleiki]             | [#18](https://github.com/Hvannberg/HBV301G-COS/issues/18) |
-| QR3 | [Notendur skulu skrá sig inn á COS til að framkvæma allar aðgerðir nema til að skoða matseðla] |  [#19](https://github.com/Hvannberg/HBV301G-COS/issues/19)
+| QR3 | [Notendur skulu skrá sig inn á COS til að framkvæma allar aðgerðir nema til að skoða matseðla] |  [#19](https://github.com/Hvannberg/HBV301G-COS/issues/19) |
+| QR4 | [Opnun þjónustuvers]                                                                           |  [#20](https://github.com/Hvannberg/HBV301G-COS/issues/20)  |
 ### 3.8 Takmarkanir
 | ID  | Lýsing | Issue                                                   |
 |-----|--------|---------------------------------------------------------|
