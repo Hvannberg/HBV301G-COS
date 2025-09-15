@@ -109,7 +109,7 @@ Helstu notenahópar eru eftirfarandi
 | ID  | Lýsing | Issue                                                   |
 |-----|--------|---------------------------------------------------------|
 | C1 | [Oracle gagnagrunnur] | [#5](https://github.com/Hvannberg/HBV301G-COS/issues/5) |
-| C2 | [Viðkvæm gögn skulu dulkóðuð með 256-birta dulritun] | [#6](https://github.com/Hvannberg/HBV301G-COS/issues/6) |
+| C2 | [Viðkvæm gögn skulu dulkóðuð með 256-bita dulritun] | [#6](https://github.com/Hvannberg/HBV301G-COS/issues/6) |
 
 ### 3.9 Ytri skil (Interfaces)
 | ID  | Lýsing | Issue                                                   |
